@@ -1,0 +1,4 @@
+#Mon Nov 26 14:14:09 GMT+03:00 2018
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\ListFriends\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
